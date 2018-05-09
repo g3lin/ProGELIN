@@ -1,0 +1,7 @@
+{
+  "name": "ProGélin",
+  "description": "A simple personnal website to showcase my work",
+  "repository": "https://github.com/g3lin/ProGelin",
+  "keywords": ["node", "express","perso", "showcase"]
+  
+}

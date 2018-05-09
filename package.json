@@ -1,0 +1,20 @@
+{
+  "name": "progelin",
+  "version": "0.0.1",
+  "description": "A simple personnal website to showcase my work",
+  "engines": {
+    "node": "^8.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g3lin/ProGelin"
+  }
+}
